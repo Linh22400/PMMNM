@@ -1,1 +1,2 @@
-Đây là README từ nhánh conflict-demo.
+# Git Practice
+Giới thiệu: Tôi là Nguyễn Hồng Linh, MSSV 224217.
